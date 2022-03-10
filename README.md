@@ -3,6 +3,9 @@ KBQA: answering natual language questions over knowledge bases.
 
 
 ### Datasets
+1.**WebQuestions**
+**Semantic Parsing on Freebase from Question-Answer Pairs.**
+Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang.EMNLP 2013. [paper](https://aclanthology.org/D13-1160.pdf)
 
 ### Leaderboard
 
