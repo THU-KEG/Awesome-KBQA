@@ -9,6 +9,12 @@ KBQA: answering natual language questions over knowledge bases.
 
 Jonathan Berant, Andrew Chou, Roy Frostig, Percy Liang.EMNLP 2013. [paper](https://aclanthology.org/D13-1160.pdf)
 
+2.**[QALD](http://qald.aksw.org/)**
+
+**Evaluating question answering over linked data.**
+
+Vanessa Lopez, Christina Unger, Philipp Cimiano, Enrico Motta.Web Semantics Science Services And Agents On The World Wide Web 2013. [paper](https://www.sciencedirect.com/science/article/abs/pii/S157082681300022X)
+
 ### Leaderboard
 
 KQA Pro: [http://thukeg.gitee.io/kqa-pro/](http://thukeg.gitee.io/kqa-pro/)
