@@ -86,9 +86,10 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 ### Simple KBQA
 
 
-
 ### Complex KBQA
 
+1. **Learning to Transform Natural to Formal Language.**
+*Rohit J. Kit, Yuk Wah Wong, Raymond J. Mooney.* AAAI 2005. [paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)
 
 ### Comments
 If you find any errors in the above information, please let us know in Issues. Pull requests are welcomed for adding papers.
