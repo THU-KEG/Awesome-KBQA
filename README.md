@@ -90,10 +90,10 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 
 **Supervised Semantic Parsing:**
 
-1. **Learning to Transform Natural to Formal Language.**
+1. **Learning to Transform Natural to Formal Language.**\n
 *Rohit J. Kit, Yuk Wah Wong, Raymond J. Mooney.* (AAAI 2005). \[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)\]\[code\]
 
-2. **A Generative Model for Parsing Natural Language to Meaning Representations.**
+2. **A Generative Model for Parsing Natural Language to Meaning Representations.**\n
 *Wei Lu, Hwee Tou Ng, Wee Sun Lee.* (EMNLP 2008). \[[paper](https://aclanthology.org/D08-1082.pdf)\]\[code\]
 
 3. **Lexical Generalization in CCG Grammar Induction for Semantic Parsing.**
