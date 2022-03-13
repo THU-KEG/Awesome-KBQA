@@ -68,7 +68,7 @@ Jiaxin Shi, Shulin Cao, Liangming Pan, Yutong Xiang, Lei Hou, Juanzi Li, Hanwang
 
 **Beyond I.I.D.: Three Levels of Generalization for Question Answering on Knowledge Bases.**
 
-Yu Gu, Sue Kase, Michelle T. Vanni, Brian M. Sadler, Percy Liang, Xifeng Yan, Yu Su. WWW 2021. [paper](https://arxiv.org/pdf/2011.07743.pdf)
+Yu Gu, Sue Kase, Michelle T. Vanni, Brian M. Sadler, Percy Liang, Xifeng Yan, Yu Su. WWW 2021. \[[paper](https://arxiv.org/pdf/2011.07743.pdf)
 
 
 ### Leaderboard
