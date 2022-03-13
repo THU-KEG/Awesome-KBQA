@@ -81,7 +81,7 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 ### Survey papers
 
 1. **A Survey on Complex Knowledge Base Question Answering: Methods, Challenges and Solutions.**
-*Yunshi Lan*, Gaole He*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao and Ji-Rong Wen.* IJCAI 2021 (Survey). \[[paper](https://arxiv.org/pdf/2105.11644.pdf)\]\[code\]
+*Yunshi Lan*, Gaole He*, Jinhao Jiang, Jing Jiang, Wayne Xin Zhao and Ji-Rong Wen.* IJCAI 2021 (Survey). [paper](https://arxiv.org/pdf/2105.11644.pdf)
 
 ### Simple KBQA
 
@@ -89,6 +89,7 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 ### Complex KBQA
 
 1. **Learning to Transform Natural to Formal Language.**
+
 *Rohit J. Kit, Yuk Wah Wong, Raymond J. Mooney.* (AAAI 2005). \[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)\]\[code\]
 
 ### Comments
