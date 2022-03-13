@@ -88,9 +88,13 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 
 ### Complex KBQA
 
-1. **Learning to Transform Natural to Formal Language.**
+**Supervised Semantic Parsing:**
 
-*Rohit J. Kit, Yuk Wah Wong, Raymond J. Mooney.* (AAAI 2005). \[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)\]\[code\]
+1. **Learning to Transform Natural to Formal Language.**
+*Rohit J. Kit, Yuk Wah Wong, Raymond J. Mooney.* (AAAI 2005). \[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)\]\[[code]()\]
+
+2. **A Generative Model for Parsing Natural Language to Meaning Representations.**
+*Wei Lu, Hwee Tou Ng, Wee Sun Lee.* (EMNLP 2008). \[[paper](https://aclanthology.org/D08-1082.pdf)\]\[[code]()\]
 
 ### Comments
 If you find any errors in the above information, please let us know in Issues. Pull requests are welcomed for adding papers.
