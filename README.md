@@ -134,6 +134,26 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 
 **Weakly-Supervised Semantic Parsing:**
 
+1. **Semantic parsing via staged query graph generation: Question answering with knowledge base.** <br />
+*Yih W, Chang M W, He X, et al.* (ACL-IJCNLP 2015). \[[paper](https://www.aaai.org/Papers/AAAI/2005/AAAI05-168.pdf)\]\[[code](https://github.com/scottyih/STAGG)\]
+
+2. **A state-transition framework to answer complex questions over knowledge base.** <br />
+*YHu S, Zou L, Zhang X.* (EMNLP 2018). \[[paper](https://aclanthology.org/D18-1234.pdf)\]\[[code](https://github.com/scottyih/STAGG)\]
+
+3. **Knowledge base question answering via encoding of complex query graphs.** <br />
+*Luo K, Lin F, Luo X, et al.* (EMNLP 2018). \[[paper](https://aclanthology.org/D18-1242.pdf)\]\[[code](https://github.com/lkq1992yeah/CompQA)\]
+
+4. **Modeling semantics with gated graph neural networks for knowledge base question answering.** <br />
+*Sorokin D, Gurevych I.* (COLING 2018). \[[paper](https://aclanthology.org/D18-1242.pdf)\]\[[code](https://github.com/UKPLab/coling2018-graph-neural-networks-question-answering)\]
+
+5. **Learning to answer complex questions over knowledge bases with query composition.** <br />
+*Bhutani N, Zheng X, Jagadish H V.* (CIKM 2019). \[[paper](https://dl.acm.org/doi/10.1145/3357384.3358033)\]\[code\]
+
+6. **Transforming dependency structures to logical forms for semantic parsing.** <br />
+*Reddy S, Täckström O, Collins M, et al.* (ACL 2016). \[[paper](https://watermark.silverchair.com/tacl_a_00088.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMifgqPAF0iMu01xB_AgEQgIICf0GNI3rzd6RXzmCo_0v0XWbw7OrbX9MkyNEUqzfUyAfaRROyZ0XPikpiSoTRVD5-bgjNTLQH6TKazL1NP8lOBOi1Z8FrnxD8DphHoLJjW4RmZ_VGoREMSNg2VuPWOjnil8n_LfBMr2BaUJFh7mCZ4d2CuqFUVuS17GavXHWuiM52PP4V2KmaPXIgqUtzFmtfuqBD7c1MQOgn-PMJ7Vux1R8ff3oVqVrpvc95oWrC6qjK99r8OHSpw9J11EmQZ0Zh81eOHLGdLofjGFb6KjU_Re2CW3x8M85Tp53OqdPk7q6B5eONS36GZRsZHbhyIhJ3Kc4_C_OWuOPcDZOV5T69Y6PX1vj257HNzJE8ZwMeL4Hthdu4icJbJafMhzAaIVr66tZ82V_HB0Z3vB3DAAr21W1GtL62w4OBVGMcZlCjq43ZrRJTaSG7vrY8b-XoZhN6tszpIi-3NbT1eHWiNXAw8mJ3Gqeb-RV9XZlWVRGrybsrCMZYXvgNVypbBZRTTSTfgq7zHNL_4rYMUNaSYYoEJ8sZsIuEmlDOBpJW6aH4pUs6oBPrc1m0yDDDt7XBTe_mLpyZAoIR6d80HeMw1kg27BiBiszEFQR5RQufF0uQ6qqji1WhOyE_0zsxIQ5XDPHq4EXcCpEebLzUx_RTdFUmD2jfpUSTOxC4YdIZ09eGbZMiPdbCInWnvAkc7yfqAwgZPXfRHK4EBN3x-MDxmW2kmN2RDyyZYZbTG8owW6nUkmdm40zqQzse1LP8ZReIHWEQQ9scUOJpvnWARpNF3dw5fYJdgnxRodcRYVWxvC237ZYmrpXnWK-BqnSct0ILnstWJ6_-tkatJFDY_iqn0DQKJQ)\]\[[code](https://github.com/sivareddyg/deplambda)\]
+
+7. **Universal semantic parsing.** <br />
+*Reddy S, Täckström O, Petrov S, et al.* (EMNLP 2017). \[[paper](https://arxiv.org/pdf/1702.03196.pdf)\]\[[code](https://github.com/sivareddyg/UDepLambda)\]
 
 **Key-Value Memory Network:**
 
