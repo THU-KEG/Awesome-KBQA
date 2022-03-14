@@ -146,11 +146,11 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 4. **Universal semantic parsing.** <br />
 *Reddy S, Täckström O, Petrov S, et al.* (EMNLP 2017). \[[paper](https://arxiv.org/pdf/1702.03196.pdf)\]\[[code](https://github.com/sivareddyg/UDepLambda)\]
 
-5. **Policy shaping and generalized update equations for semantic parsing from denotations.** <br />
-*Dipendra Misra, Ming-Wei Chang, Xiaodong He, Wen-tau Yih.* (EMNLP 2018). \[[paper](https://arxiv.org/pdf/1809.01299.pdf)\]\[[code](https://github.com/dkmisra/nsp)\]
-
-6. **Neural symbolic machines: Learning semantic parsers on freebase with weak supervision.** <br />
+5. **Neural symbolic machines: Learning semantic parsers on freebase with weak supervision.** <br />
 *Chen Liang, Jonathan Berant, Quoc Le, Kenneth D. Forbus, Ni Lao.* (ACL 2017). \[[paper](https://arxiv.org/pdf/1611.00020.pdf)\]\[code\]
+
+6. **Policy shaping and generalized update equations for semantic parsing from denotations.** <br />
+*Dipendra Misra, Ming-Wei Chang, Xiaodong He, Wen-tau Yih.* (EMNLP 2018). \[[paper](https://arxiv.org/pdf/1809.01299.pdf)\]\[[code](https://github.com/dkmisra/nsp)\]
 
 7. **Dialog-to-action: conversational question answering over a large-scale knowledge base.** <br />
 *Daya Guo, Duyu Tang, Nan Duan, Ming Zhou, and Jian Yin* (Neurips 2018). \[[paper](https://proceedings.neurips.cc/paper/2018/file/d63fbf8c3173730f82b150c5ef38b8ff-Paper.pdf)\]\[[code](https://github.com/guoday/Dialog-to-Action)\]
