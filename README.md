@@ -85,6 +85,100 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 
 ### Simple KBQA
 
+**Relation classification**
+
+1. **Semantic parsing for single relation question answering**. *Wen-tau Yih, Xiaodong He, Christopher Meek*. (ACL 2014). [[paper](https://www.aclweb.org/anthology/P14-2105.pdf)]
+
+2. **Information extraction over structured data: Question answering with Freebase**. *Xuchen Yao, Benjamin Van Durme*. (ACL 2014). [[paper](https://www.aclweb.org/anthology/P14-1090.pdf)]
+
+3. **CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases**
+   *Zihang Dai, Lei Lir, Wei Xu* (ACL 2016) [[paper](https://aclanthology.org/P16-1076.pdf)] [[code](https://github.com/zihangdai/cfo)]
+
+4. **Question answering on freebase via relation extraction and textual evidence**. *Kun Xu, Siva Reddy, Yansong Feng, Songfang Huang, Dongyan Zhao* (ACL 2016). [[paper](https://www.aclweb.org/anthology/P16-1220.pdf)] [[code](https://github.com/syxu828/QuestionAnsweringOverFB)]
+
+5. **No Need to Pay Attention: Simple Recurrent Neural Networks Work! (for Answering “Simple” Questions)**
+   *Ferhan Ture, Oliver Jojic* (EMNLP 2017) [[paper](https://aclanthology.org/D17-1307.pdf)] 
+
+6. **Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks**
+   *Salman Mohammed, Peng Shi,  Jimmy Lin* (NAACL 2018) [[paper](https://aclanthology.org/N18-2047.pdf)]
+
+7. **SimpleQuestions Nearly Solved:A New Upperbound and Baseline Approach**
+   *Michael Petrochuk, Luke Zettlemoyer* (EMNLP 2018) [[paper](https://aclanthology.org/D18-1051.pdf)] [[code](https://github.com/PetrochukM/Simple-QA-EMNLP-2018)]
+
+   
+**Semantic matching**
+
+1. **Question answering with subgraph embeddings**. *Antoine Bordes, Sumit Chopra, Jason Weston*. (EMNLP 2014). [[paper](https://arxiv.org/pdf/1406.3676.pdf)]
+
+2. **Question Answering over Freebase with Multi-Column Convolutional Neural Networks**
+   *Li Dong, Furu Wei, Ming Zhou, Ke Xu* (ACL 2015) [[paper](https://aclanthology.org/P15-1026.pdf)] 
+
+3. **Large-scale Simple Question Answering with Memory Networks**
+   *Antoine Bordes, Nicolas Usunier, Sumit Chopra, Jason Weston* (CoRR 2015) [[paper](https://arxiv.org/pdf/1506.02075.pdf)] 
+
+4. **Simple Question Answering by Attentive Convolutional Neural Network**
+   *Bing Xiang, Bowen Zhou, Hinrich Schütze, Mo Yu, Wenpeng Yin* (COLING 2016) [[paper](https://aclanthology.org/C16-1164.pdf)]  [[code]( https://github.com/Gorov/SimpleQuestions-EntityLinking)]
+
+5. **Character-level question answering with attention.**
+   *David Golub, Xiaodong He* (EMNLP 2016) [[paper](https://aclanthology.org/D16-1166.pdf)] [[code](https://github.com/davidgolub/simpleqa)]
+
+6. **Question answering over knowledge base using factual memory networks**. *Sarthak Jain*. (NAACL 2016) [[paper](https://www.aclweb.org/anthology/N16-2016.pdf)]
+
+7. **An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge**
+   *Yanchao Hao, Yuanzhe Zhang, Kang Liu, Shizhu He, Jun Zhao* (ACL 2017) [[paper](https://aclanthology.org/P17-1021.pdf)] 
+
+8. **Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level**
+   *Denis Lukovnikov, Asja Fischer, Jens Lehmann, Sören Auer* (WWW 2017) [[paper](http://papers.www2017.com.au.s3-website-ap-southeast-2.amazonaws.com/proceedings/p1211.pdf)] [[code](https://github.com/WDAqua/teafacto)]
+
+9. **Improved Neural Relation Detection for Knowledge Base Question Answering**
+   *Mo Yu, Bowen Zhou* (ACL 2017) [[paper](https://aclanthology.org/P17-1053.pdf)] 
+
+10. **Dual Constrained Question Embeddings with Relational Knowledge Bases for Simple Question Answering**
+    *Kaustubh Kulkarni, Riku Togashi, Hideyuki Maeda, Sumio Fujita* (IJCNLP 2017) [[paper](https://aclanthology.org/I17-2037.pdf)] 
+
+11. **Knowledge Base Relation Detection via Multi-View Matching**
+    *Yang Yu, Kazi Saidul Hasan, Mo Yu, Wei Zhang, Zhiguo Wang* (Arixv) [[paper](https://arxiv.org/pdf/1803.00612.pdf)] 
+
+12. **Retrieve and Re-rank: A Simple and Effective IR Approach to Simple
+    Question Answering over Knowledge Graphs**
+      *Vishal Gupta, Manoj Chinnakotla, Manish Shrivastava* (EMNLP 2018) [[paper](https://aclanthology.org/W18-5504.pdf)] 
+
+13. **Pattern-revising Enhanced Simple Question Answering over Knowledge Bases**
+    *Yanchao Hao, Hao Liu, Shizhu He, Kang Liu, Jun Zhao* (COLING 2018) [[paper](https://aclanthology.org/C18-1277.pdf)] 
+
+14. **Knowledge Graph Embedding Based Question Answering**
+    *Xiao Huang, Jingyuan Zhang, Dingcheng Li, Ping Li* (WSDM 2019) [[paper](http://research.baidu.com/Public/uploads/5c1c9a58317b3.pdf)] 
+
+15. **Simple Question Answering with Subgraph Ranking and Joint-Scoring**
+    *Wenbo Zhao, Tagyoung Chung, Anuj Goyal, Angeliki Metallinou* (NAACL 2019) [[paper](https://arxiv.org/pdf/1904.04049.pdf)] 
+
+16. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases**. *Yu Chen, Lingfei Wu, Mohammed J. Zaki*. (NAACL 2019). [[paper](https://arxiv.org/pdf/1903.02188.pdf)] [[Code](https://github.com/hugochan/BAMnet?utm_source=catalyzex.com)]
+
+17. **Adversarial Training Improved Multi-path Multi-scale Relation Detector for Knowledge Base Question Answering**
+    *Yanan Zhang, Guangluan Xu, Xingyu Fu, Li Jin, Tinglei Huang* (IEEE Access 2020) [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050788)] 
+
+18. **DAM: Transformer-based relation detection for Question Answering over Knowledge Base**
+    *Yongrui Chen, Huiying Li* (KBS 2020) [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120303579?via%3Dihubf)]
+
+    
+**Others**
+
+1. **Learning to compose neural networks for question answering**. *Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Dan Klein* (NAACL 2016). [[paper](https://arxiv.org/pdf/1601.01705.pdf)] [[Code](https://github.com/jacobandreas/nmn2)] 
+2. **Hybrid question answering over knowledge base and free text**. *Kun Xu, Yansong Feng, Songfang Huang, Dongyan Zhao* (COLING 2016). [[paper](https://www.aclweb.org/anthology/C16-1226.pdf)]
+3. **Recovering Question Answering Errors via Query Revision**
+   *Semih Yavuz, Izzeddin Gur, Yu Su, Xifeng Yan* (EMNLP 2017) [[paper](https://aclanthology.org/D17-1094.pdf)] 
+4. **The APVA-TURBO Approach To Question Answering in Knowledge Base**
+   *Yue Wang, Richong Zhang, Cheng Xu, Yongyi Mao* (COLING 2018) [[paper](hhttps://aclanthology.org/C18-1170.pdf)] 
+5. **Pattern-revising Enhanced Simple Question Answering over Knowledge Bases**
+   *Yanchao Hao, Hao Liu, Shizhu He, Kang Liu, Jun Zhao* (COLING 2018) [[paper](https://aclanthology.org/C18-1277.pdf)] 
+6. **Hierarchical Type Constrained Topic Entity Detection forKnowledge Base Question Answering**
+   *Yunqi Qiu, Manling Li, Yuanzhuo Wang, Yantao Jia, Xiaolong Jin* (WWW 2018) [[paper](https://dl.acm.org/doi/epdf/10.1145/3184558.3186916)] 
+7. **Knowledge Base Question Answering with Topic Units**
+   *Yunshi Lan , Shuohang Wang and Jing Jiang* (IJCAI 2019) [[paper](https://www.ijcai.org/Proceedings/2019/0701.pdf)] 
+8. **Learning Representation Mapping for Relation Detection in Knowledge Base Question Answering**
+   *Peng Wu, Jiajun Chen* (ACL 2019) [[paper](https://aclanthology.org/P19-1616.pdf)] [[code](https://github.com/wudapeng268/KBQA-Adapter)]
+9. **Knowledge Graph Simple Question Answering for Unseen Domains**
+   *Georgios Sidiropoulos, Nikos Voskarides , Evangelos Kanoulas* (AKBC 2020) [[paper](https://www.akbc.ws/2020/assets/pdfs/Ie2Y94Ty8K.pdf)] 
 
 ### Complex KBQA
 
