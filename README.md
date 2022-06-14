@@ -286,6 +286,20 @@ Luke Zettlemoyer, and Eduard Hovy.* (NAACL 2019). \[[paper](https://aclanthology
 19. **Unified semantic parsing with weak supervision.** <br />
 *Priyanka Agrawal, Parag Jain, Ayushi Dalmia, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan.* (ACL 2019). \[[paper](https://arxiv.org/pdf/1906.05062.pdf)\]\[[code](https://github.com/pagrawal-ml/Unified-Semantic-Parsing)\]
 
+
+**Dependency Path:**
+
+1. **An interpretable reasoning network for multi-relation question answering.** <br />
+*Mantong Zhou, Minlie Huang, Xiaoyan Zhu.* (COLING 2018). \[[paper](https://arxiv.org/pdf/1801.04726.pdf)\]\[[code](https://github.com/gauravsinha7/IRNQA)\]
+
+2. **UHop: An unrestricted- hop relation extraction framework for knowledge-based question answering.** <br />
+*MZi-Yuan Chen, Chih-Hung Chang, Yi-Pei Chen, Jijnasa Nayak, Lun-Wei Ku.* (NAACL 2019). \[[paper](https://arxiv.org/pdf/1904.01246.pdf)\]\[[code](https://github.com/zychen423/UHop)\]
+
+
+3. **Stepwise reasoning for multi-relation question answering over knowledge graph with weak supervision.** <br />
+*Yunqi Qiu, Yuanzhuo Wang, Xiaolong Jin, Kun Zhang.* (WSDM 2020). \[[paper](https://www.researchgate.net/profile/Yunqi-Qiu/publication/338754985_Stepwise_Reasoning_for_Multi-Relation_Question_Answering_over_Knowledge_Graph_with_Weak_Supervision/links/5f916b3ca6fdccfd7b74bf5d/Stepwise-Reasoning-for-Multi-Relation-Question-Answering-over-Knowledge-Graph-with-Weak-Supervision.pdf)\]\[[code](https://github.com/DanSeb1295/multi-relation-QA-over-KG)\]
+
+
 **Key-Value Memory Network:**
 
 
