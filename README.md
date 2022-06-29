@@ -287,12 +287,12 @@ Luke Zettlemoyer, and Eduard Hovy.* (NAACL 2019). \[[paper](https://aclanthology
 *Priyanka Agrawal, Parag Jain, Ayushi Dalmia, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan.* (ACL 2019). \[[paper](https://arxiv.org/pdf/1906.05062.pdf)\]\[[code](https://github.com/pagrawal-ml/Unified-Semantic-Parsing)\]
 
 
-**Dependency Path:**
+**Relation Path:**
 
 1. **An interpretable reasoning network for multi-relation question answering.** <br />
 *Mantong Zhou, Minlie Huang, Xiaoyan Zhu.* (COLING 2018). \[[paper](https://arxiv.org/pdf/1801.04726.pdf)\]\[[code](https://github.com/gauravsinha7/IRNQA)\]
 
-2. **UHop: An unrestricted- hop relation extraction framework for knowledge-based question answering.** <br />
+2. **UHop: An unrestricted-hop relation extraction framework for knowledge-based question answering.** <br />
 *MZi-Yuan Chen, Chih-Hung Chang, Yi-Pei Chen, Jijnasa Nayak, Lun-Wei Ku.* (NAACL 2019). \[[paper](https://arxiv.org/pdf/1904.01246.pdf)\]\[[code](https://github.com/zychen423/UHop)\]
 
 
@@ -302,14 +302,48 @@ Luke Zettlemoyer, and Eduard Hovy.* (NAACL 2019). \[[paper](https://aclanthology
 
 **Key-Value Memory Network:**
 
+1. **Enhancing key-value memory neural networks for knowledge based question answering.** <br />
+*Kun Xu, Yuxuan Lai, Yansong Feng, Zhiguo Wang* (NAACL 2019). \[[paper](https://aclanthology.org/N19-1301.pdf)\]\[[code]()\]
+
+
+2. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases.** <br />
+*Yu Chen, Lingfei Wu, Mohammed J. Zaki* (NAACL 2019). \[[paper](https://aclanthology.org/N19-1301.pdf)\]\[[code](https://github.com/jdfekete/geneaquilt)\]
 
 **Differentiable Path:**
 
+1. **Neural Query Language: A Knowledge Base Query Language for Tensorflow.** <br />
+*William W. Cohen, Matthew Siegler, Alex Hofer*. \[[paper](https://arxiv.org/pdf/1905.06209.pdf)\]\[[code](https://github.com/jdfekete/geneaquilt)\]
+
+2. **Scalable neural methods for reasoning with a symbolic knowledge base.** <br />
+*William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler* (ICLR 2020). \[[paper](https://arxiv.org/pdf/2002.06115.pdf)\]\[[code]()\]
+
+3. **Faithful Embeddings for Knowledge Base Queries.** <br />
+*Haitian Sun, Andrew O. Arnold, Tania Bedrax-Weiss, Fernando Pereira, William W. Cohen* (NeurIPS 2020). \[[paper](https://arxiv.org/pdf/2004.03658.pdf)\]\[[code](https://github.com/google-research/language)\]
 
 **Graph Neural Network:**
 
 
+1. **Open domain question answering using early fusion of knowledge bases and text.**<br />
+*Haitian Sun, Bhuwan Dhingra, Manzil Zaheer, Kathryn Mazaitis, Ruslan Salakhutdinov, William W. Cohen*. (EMNLP 2018) \[[paper](https://arxiv.org/abs/1809.00782)\]\[[code](https://github.com/haitian-sun/GraftNet)\]
+
+
+2. **PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text.** <br />
+*Haitian Sun, Tania Bedrax-Weiss, William W. Cohen*. \[[paper](https://arxiv.org/abs/1904.09537)\]\[[code]()\]
+
+
 **Others:**
+
+
+1. **Message Passing for Complex Question Answering over Knowledge Graphs.**<br />
+*Svitlana Vakulenko, Javier David Fernandez Garcia, Axel Polleres, Maarten de Rijke, Michael Cochez*. (CIKM 2019) \[[paper]([https://arxiv.org/abs/1809.00782](https://arxiv.org/pdf/1908.06917.pdf))\]\[[code](https://github.com/svakulenk0/KBQA)\]
+
+
+2. **Question answering on freebase via relation extraction and textual evidence.**<br />
+*Kun Xu, Siva Reddy, Yansong Feng, Songfang Huang, Dongyan Zhao*. (ACL 2016) \[[paper](https://arxiv.org/abs/1603.00957)\]\[[code](https://github.com/syxu828/QuestionAnsweringOverFB)\]
+
+
+3. **Query2box: Reasoning over knowledge graphs in vector space using box embeddings.**<br />
+*Hongyu Ren, Weihua Hu, Jure Leskovec*. (ICLR 2020) \[[paper](https://arxiv.org/abs/2002.05969)\]\[[code](http://snap.stanford.edu/query2box)\]
 
 
 ### Comments
