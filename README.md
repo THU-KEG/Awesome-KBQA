@@ -264,27 +264,18 @@ GrailQA: [https://dki-lab.github.io/GrailQA/](https://dki-lab.github.io/GrailQA/
 12. **Neural program induction for kbqa without gold programs or query annotations.** <br />
 *Ghulam Ahmed Ansari, Amrita Saha, Vishwajeet Kumar, Mohan Bhambhani, Karthik Sankaranarayanan, Soumen Chakrabarti.* (IJCAI 2019). \[[paper](https://www.ijcai.org/proceedings/2019/0679.pdf)\]\[[code](https://github.com/CIPITR/SSRP)\]
 
-13. **Neural program induction for kbqa without gold programs or query annotations.** <br />
-*Amrita Saha, Ghulam Ahmed Ansari, Abhishek Laddha, Karthik Sankaranarayanan, Soumen Chakrabarti.* (ACL 2019). \[[paper](https://watermark.silverchair.com/tacl_a_00262.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMt50kO9XTmD-9DlQQAgEQgIICf-mXS6J2_I7kpRt4QCzNe_BH_8ivDERheFUHhoJHtNwbdBS6N0bFOGy0CfBeXPMW8q5IebtDL4NosBPtY8H_ov-tVnbNGesD1UC0-zHCvCDAwSFmCfbzR8ujblmFTfL1tyXxUCBGtGy-BqEEedWepPyGDr6ZKM-hbb2REkRm5VGG6bM1eA5HIIE0HowY5ovholxHQxxfJpxSXnXH7S3AzvBoffACTdUCyKxXfDEaLQcKP-ojai5hqfn62_lujPia-00_YKG7AlGp4NwU-v5sWknsK_4-hLpvDvZgAce2jYLUiDRK1Pr8oMpE3j5i605YEmrHch_6BVxP5rYjziF4mgH_VPCdoXoaxFoTiRieSV1nDJIDahz80wZwUTWHyL6zH2XjdDpaTo6wHKC_iL_xjTwFYBJ-ovKIhnxmvTwQY6f6qQN-5zYIrctIXR4EJS-9QNSZcRpTnjrkb_QIsMW0YyxM8NVAEB2XpH4WJFjw_MSaiyKxCLZ_5HBnO_1_QUYYMI6Q8necvRMMg4juxGb7uR06DaCZq0DwWNa_rCtNu08TeSiVzf4fYWjON22sc8f7CtzcyMEfZkReKUEwEFJTKsFQp2rHqQAX-1zybgs4ycmpmig1i3MtdeHtPnzQbbIObMzzfcJhL6E9sScwA1k9gxNwLjzR6AH276R8KnbteyOIAQzv5_nko7SfymmYMn_L0mtRytR0m9nsFqhD2qnbkMJ_1I3ecJ7quo9loNfXu9NjJR1eZFrhe06uOMwe-naEQG-EgPw0d7MTmMDz0tfo_xTKpkG1zfWTTOu5Cie94SKTh7YicV6sk-RCUZFwYyoBhbwJ7qByPAq48YkXitlk-A)\]\[[code](https://github.com/CIPITR/CIPITR)\]
-
-14. **Unified Semantic Parsing with Weak Supervision.** <br />
+13. **Unified Semantic Parsing with Weak Supervision.** <br />
 *Priyanka Agrawal, Parag Jain, Ayushi Dalmia, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan.* (ACL 2019). \[[paper](https://arxiv.org/pdf/1906.05062.pdf)\]\[[code](https://github.com/pagrawal-ml/Unified-Semantic-Parsing)\]
 
-15. **Iterative search for weakly supervised semantic parsing.** <br />
+14. **Iterative search for weakly supervised semantic parsing.** <br />
 *Pradeep Dasigi, Matt Gardnerê, Shikhar Murty,
 Luke Zettlemoyer, and Eduard Hovy.* (NAACL 2019). \[[paper](https://aclanthology.org/N19-1273.pdf)\]\[code\]
 
-16. **Learning structured natural language representations for semantic parsing.** <br />
+15. **Learning structured natural language representations for semantic parsing.** <br />
 *Jianpeng Cheng, Siva Reddy, Vijay Saraswat, and Mirella Lapata.* (NAACL 2019). \[[paper](https://arxiv.org/pdf/1704.08387.pdf)\]\[[code](https://github.com/cheng6076/scanner)\]
 
-17. **Neural program induction for kbqa without gold programs or query annotations.** <br />
-*Ghulam Ahmed Ansari, Amrita Saha, Vishwajeet Kumar, Mohan Bhambhani, Karthik Sankaranarayanan and Soumen Chakrabarti.* (IJCAI 2019). \[[paper](https://www.ijcai.org/proceedings/2019/0679.pdf)\]\[[code](https://github.com/CIPITR/SSRP)\]
-
-18. **Complex program induction for querying knowledge bases in the absence of gold programs.** <br />
+16. **Complex program induction for querying knowledge bases in the absence of gold programs.** <br />
 *Amrita Saha, Ghulam Ahmed Ansari, Abhishek Laddha, Karthik Sankaranarayanan, Soumen Chakrabarti.* (TACL 2019). \[[paper](https://watermark.silverchair.com/tacl_a_00262.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAswwggLIBgkqhkiG9w0BBwagggK5MIICtQIBADCCAq4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMoPKqRuNyGBu6y56BAgEQgIICf_IxW1T9FpnYE8vbvEq8mXRFcg2xYb1BCmG8wdxLz-oYqKk_XBW3PTT1_mdDXPvIBu-dBHX1dSykate1kRDZT98jZMEeifT7r1FECIliAfqb5JqGjRhYoI3RJ98YzTTBW3acJGXhMoBGh9VuEroysYZargkakiJRv90x4XZUr-JMUZKFsh1tgqurPfRd-YiFXI7ze5x0_kAX5oI6LceanHvZXm5cQeeKcmz4xeIvzjUpTx_3bShn814uzo0s8fkwApf3Fqk9LKflVR0k0duurycnpPCHVOODV4uDnf7MdPfSQ2Tzs9lpSjMtoNcSyZVTeNcej3h2PCfwy9-younXopz_L5n8Mk2MkwtvGwJWHIHKCwDdSBotSoPjomBWl0d1mIZUwNHwB9ex2OsNN3YTKKW06EwJTmWkBBUVFeNZDGD1_J3DIFo5sOJ035zSFUAdPEt-Je11yS2CVNkkuoVlhuUtj5v5yIvtkF6KPRBNaWRlJOW5KQ-Ep4YXZ8BMD2T-iirLKQsdYiU9LAKNTGL0xJUBhIRtsNczDcPsraLrUVjuRLkgiWbe0PqlENZMRtu74Tn0nADxXoQ2LR0Q5GTBlGDA_bEHWqDyJf-Fvvlt1RiosjMaaYjhrsZ11k3awy7op6RpSk9AJtus4kqwgxKddL4kqPCmewOkxLLfJ_PZEOoAHPxAcVnxg1u8Opis32qkYi3Uo6UZsUj_yZ93YvkQpWbDEG8v7xaGlgLqk_n63ru9bT2Cq3v1Sfy3FmjQWMaWakGq3mNsjqmFvQyyRhmzxq7Shnev5z-tb0KMGm5yaWLS18HOMW6LITsphXkwE0iF2HOvrSmaQkkRPn7IYUE5Qw)\]\[[code](https://github.com/CIPITR/CIPITR)\]
-
-19. **Unified semantic parsing with weak supervision.** <br />
-*Priyanka Agrawal, Parag Jain, Ayushi Dalmia, Abhishek Bansal, Ashish Mittal, Karthik Sankaranarayanan.* (ACL 2019). \[[paper](https://arxiv.org/pdf/1906.05062.pdf)\]\[[code](https://github.com/pagrawal-ml/Unified-Semantic-Parsing)\]
 
 
 **Relation Path:**
